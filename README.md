@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👨‍💻 Portfólio | Gabriel Cortes Teixeira
 
-## Getting Started
+Bem-vindo ao repositório do meu portfólio pessoal. Este projeto foi desenvolvido para apresentar minha trajetória profissional, minhas habilidades como Desenvolvedor Full-Stack e os principais projetos (End-to-End) que venho construindo.
 
-First, run the development server:
+## 🚀 Visão Geral do Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este portfólio não é apenas uma página estática, mas uma **Aplicação React** interativa desenvolvida com as tecnologias mais modernas do ecossistema front-end. O foco principal durante o desenvolvimento foi garantir alta performance, escaneabilidade para recrutadores e um design system focado no modo escuro (Dark Mode).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### ⚙️ Funcionalidades
+* **Filtro de Projetos Dinâmico:** Utilização de `useState` do React para categorizar projetos entre Front-end e Full-Stack.
+* **UI/UX Refinada:** Efeitos de *hover* avançados, sombras dinâmicas e transições suaves criadas puramente com utilitários CSS.
+* **Design Responsivo:** Layout fluido que se adapta perfeitamente a dispositivos móveis (Mobile First) e desktops.
+* **Componente de Imagem Otimizado:** Uso do `next/image` para garantir carregamento instantâneo e otimização de banda na Hero Section.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologias Utilizadas
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+A arquitetura do projeto foi construída com as seguintes ferramentas:
 
-## Learn More
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Biblioteca UI:** [React](https://reactjs.org/)
+* **Linguagem:** [TypeScript](https://www.typescriptlang.org/)
+* **Estilização:** [Tailwind CSS v4](https://tailwindcss.com/)
+* **Deploy e Infraestrutura:** Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## 📂 Como rodar este projeto localmente
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Se você deseja clonar e testar este repositório na sua máquina, siga os passos abaixo:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/Gabriel-2911/meu-portfolio.git](https://github.com/Gabriel-2911/meu-portfolio.git)
