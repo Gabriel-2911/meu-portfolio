@@ -12,7 +12,7 @@ export default function Home() {
       title: "Dra. Mayara Cortez",
       description: "Site institucional odontológico de alta performance focado em conversão e SEO, com configuração avançada de infraestrutura DNS na Vercel.",
       techs: ["Next.js", "Tailwind CSS", "SEO", "End-to-End"],
-      category: "Front-end",
+      category: "Full-Stack",
       link: "https://dramayaracortez.com.br/",
       linkText: "Acessar Site"
     },
@@ -20,7 +20,7 @@ export default function Home() {
       title: "Clínica ITH Prime",
       description: "Plataforma médica desenvolvida com arquitetura moderna, garantindo carregamento ultrarrápido e provisionamento otimizado de infraestrutura.",
       techs: ["Next.js", "React", "Infraestrutura", "End-to-End"],
-      category: "Front-end",
+      category: "Full-Stack",
       link: "https://ithprime.com.br/",
       linkText: "Acessar Site"
     },
