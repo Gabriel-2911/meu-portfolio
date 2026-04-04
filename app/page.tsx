@@ -38,7 +38,7 @@ export default function Home() {
     ? projects 
     : projects.filter(project => project.category === activeFilter);
 
-  const filters = ["Todos", "Front-end", "Full-Stack"];
+  const filters = ["Todos","Full-Stack"];
 
   return (
     <div className="flex flex-col items-center w-full">
