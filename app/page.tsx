@@ -64,7 +64,7 @@ export default function Home() {
           {/* Botões alinhados ao centro no mobile, esquerda no desktop */}
           <div className="flex flex-wrap items-center justify-center md:justify-start gap-4">
             <Link 
-              href="https://wa.me/5511999999999" 
+              href="https://wa.me/5511947553424" 
               target="_blank"
               className="px-8 py-3 bg-emerald-600 hover:bg-emerald-500 hover:-translate-y-1 text-white font-semibold rounded-lg transition-all duration-300 shadow-lg shadow-emerald-900/20"
             >
