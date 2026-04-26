@@ -18,7 +18,7 @@ export default function Home() {
     },
     {
       title: "Clínica ITH Prime",
-      description: "Plataforma médica desenvolvida com arquitetura moderna, garantindo carregamento ultrarrápido e provisionamento otimizado de infraestrutura.",
+      description: "Plataforma para clínica odontologica desenvolvida com arquitetura moderna, garantindo carregamento ultrarrápido e provisionamento otimizado de infraestrutura.",
       techs: ["Next.js", "React", "Infraestrutura", "End-to-End"],
       category: "Full-Stack",
       link: "https://ithprime.com.br/",
