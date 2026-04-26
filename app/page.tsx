@@ -94,7 +94,7 @@ export default function Home() {
           
           {/* Componente de Imagem Otimizado */}
           <Image
-            src="/foto.jpeg" // Certifique-se que a imagem está na pasta public com este nome
+            src="/foto.jpeg.jpg" // Certifique-se que a imagem está na pasta public com este nome
             alt="Foto de Gabriel Cortes Teixeira"
             fill // Ocupa todo o espaço do container pai (w-48 h-48 ou w-80 h-80)
             className="rounded-full object-cover border-4 border-zinc-800 shadow-2xl relative z-10"
