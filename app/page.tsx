@@ -50,7 +50,7 @@ export default function Home() {
         {/* Bloco de Texto (Esquerda no desktop, Baixo no mobile) */}
         <div className="flex flex-col items-center md:items-start text-center md:text-left max-w-2xl">
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight mb-4">
-            Gabriel <span className="text-emerald-500">Cortes Teixeira</span>
+            Gabriel <span className="text-emerald-500">Cortez Teixeira</span>
           </h1>
           
           <h2 className="text-2xl md:text-3xl text-zinc-400 font-medium mb-6">
@@ -78,7 +78,7 @@ export default function Home() {
               GitHub
             </Link>
             <Link 
-              href="https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b" 
+              href="https://www.linkedin.com/in/gabriel-Cortez-teixeira-0b9a4722b" 
               target="_blank"
               className="px-8 py-3 bg-blue-700 hover:bg-blue-600 hover:-translate-y-1 text-white font-semibold rounded-lg transition-all duration-300 shadow-lg shadow-blue-900/20"
             >
@@ -95,7 +95,7 @@ export default function Home() {
           {/* Componente de Imagem Otimizado */}
           <Image
             src="/foto.jpeg" // Certifique-se que a imagem está na pasta public com este nome
-            alt="Foto de Gabriel Cortes Teixeira"
+            alt="Foto de Gabriel Cortez Teixeira"
             fill // Ocupa todo o espaço do container pai (w-48 h-48 ou w-80 h-80)
             className="rounded-full object-cover border-4 border-zinc-800 shadow-2xl relative z-10"
             priority // Carrega a imagem imediatamente (importante para a primeira dobra)
@@ -264,7 +264,7 @@ export default function Home() {
 
       {/* --- FOOTER --- */}
       <footer className="w-full py-8 border-t border-zinc-800 text-center text-zinc-500 text-sm flex flex-col items-center justify-center gap-2">
-        <p>© {new Date().getFullYear()} Gabriel Cortes Teixeira. Desenvolvido com Next.js e Tailwind CSS.</p>
+        <p>© {new Date().getFullYear()} Gabriel Cortez Teixeira. Desenvolvido com Next.js e Tailwind CSS.</p>
       </footer>
 
     </div>
