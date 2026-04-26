@@ -58,7 +58,7 @@ export default function Home() {
           </h2>
           
           <p className="text-lg text-zinc-400 mb-10 leading-relaxed">
-            Especialista em criar interfaces performáticas com Next.js, React e TypeScript, integradas a APIs robustas em .NET. Experiência na sustentação de sistemas críticos e garantia da integridade de dados.
+            Full-stack Developer | Especialista em .NET Core & Next.js. Transformando requisitos complexos em sistemas estáveis e interfaces de alta performance.
           </p>
           
           {/* Botões alinhados ao centro no mobile, esquerda no desktop */}
