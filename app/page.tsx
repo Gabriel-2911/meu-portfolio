@@ -174,7 +174,7 @@ export default function Home() {
             
             <div className="flex flex-col md:flex-row md:items-center justify-between mb-6 pl-4">
               <div>
-                <h4 className="text-2xl font-bold text-zinc-100">Estagiário em Tecnologia / Desenvolvedor</h4>
+                <h4 className="text-2xl font-bold text-zinc-100">Desenvolvedor de Sistemas</h4>
                 <p className="text-lg text-emerald-400 font-medium mt-1">RB Investimentos</p>
               </div>
               <span className="text-zinc-500 text-sm mt-4 md:mt-0 font-medium px-3 py-1 bg-zinc-800 rounded-full border border-zinc-700">
